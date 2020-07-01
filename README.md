@@ -4,7 +4,7 @@
 ### Department of Geography, UCL
 ### ucfafyi@ucl.ac.uk
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3925607.svg)](https://doi.org/10.5281/zenodo.3925607)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3926368.svg)](https://doi.org/10.5281/zenodo.3926368)
 
 In this repository I will introduce the process of gathering soil spectra from multiple sources and interpolating them into same wavelength range (400-2500). Then the principal component analysis (PCA) is applied to derive a handful of PCs for later usage.
 
